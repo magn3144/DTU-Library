@@ -1,0 +1,1 @@
+from DTU.shrek import shrek_class, numpy_test_func
